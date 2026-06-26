@@ -14,4 +14,5 @@ when(MONTH){
     9,10,11 -> println("”秋です”")
     else -> println("”わかんないっぴ”")
 }
+
 }
