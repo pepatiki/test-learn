@@ -5,5 +5,5 @@ fun main(){
         TOTAL += item
     }
     val ave = TOTAL /arr.size
-    println("合計は、" + TOTAL + "、平均は、" + ave + "です。")
+    println("合計は、" + TOTAL + "、平均は、" + ave + "ですわよ。")
 }
