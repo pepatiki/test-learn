@@ -11,5 +11,9 @@ class Person {
     var mail = ""
 
     fun say() = "Name:" + name +", Email:" + mail
+}
+
+class Count(listdata:String="no name",listnumber:Int="0"){
     
-} rygmhfbv
+
+}
